@@ -3,7 +3,7 @@
 
 That means there is another room for the koala to take over!
 
-This repository is a refined version of the previous one.
+This repository is a refined version of the [previous one] (https://github.com/nykie738/Samba_de_Koala).
 
 ## Installation
 The program uses pillow (PIL), numpy, and screeninfo. If these are not installed in your (or your friend's) computer, the program will not operate properly. Please make sure that these libraries are installed (if the computer does not have python, you will need to start from downloading python).
