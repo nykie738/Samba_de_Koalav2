@@ -1,5 +1,5 @@
 # Samba_de_Koalav2
-So what if your friend is a double monitor abuser...
+*So what if your friend is a double monitor abuser...*
 
 That means there is another room for the koala to take over!
 
